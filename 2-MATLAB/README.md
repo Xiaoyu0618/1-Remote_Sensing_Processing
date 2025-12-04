@@ -10,11 +10,11 @@ This repository includes lightweight MATLAB scripts for **trend detection** and 
 | **2-NC_TIF_12m.m** | Convert multi-year NetCDF data into monthly GeoTIFF images |
 
 ## Usage
-1. **Prepare Input Data** 
+### 1. Prepare Data
    - Organize rasters into folders 
    - Confirm the data has correct: spatial reference (projection), resolution, extent alignment
-2. **Run Thematic Scripts**
-3. **Export Outputs**
+### 2. Run a Script
+### 3. Export Outputs
    - Ready for mapping / further GIS processing in ArcGIS/QGIS
 
 ## Applications
