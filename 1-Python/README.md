@@ -15,5 +15,4 @@ This folder contains a set of tools designed for batch processing of raster time
 - Environmental monitoring and vulnerability assessment  
 
 ## Author
-Xiaoyu Li  
-2025
+Xiaoyu Li, 2025
