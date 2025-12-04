@@ -6,8 +6,7 @@ A collection of Python and MATLAB tools for raster-based environmental data proc
 - Time-series statistical analysis
 
 ## Author
-Xiaoyu Li
-2025
+Xiaoyu Li, 2025
 
 ## Contact
 If you are interested in collaboration or research discussion:  
