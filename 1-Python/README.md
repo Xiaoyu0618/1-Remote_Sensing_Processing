@@ -28,13 +28,13 @@ scipy
 pip install numpy rasterio matplotlib scipy
 
 ## Usage
-1. **Prepare Input Data** 
-   - Organize rasters into folders 
-   - Check spatial reference (projection, resolution, extent)
-2. **Run Thematic Scripts**
-3. **Export Outputs**
-   - GeoTIFFs for mapping / further GIS analysis 
-   - CSV tables for statistical modeling or visualization in R / Python
+### 1. Prepare Data
+- Organize rasters into folders
+- Check spatial reference (projection, resolution, extent)
+### 2. Run a Script
+### 3. Export Outputs
+- GeoTIFFs for mapping / further GIS analysis 
+- CSV tables for statistical modeling or visualization in R / Python
   
 ## Applications
 - Remote sensing raster processing
