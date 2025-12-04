@@ -1,5 +1,5 @@
 # Remote_Sensing_Processing
-A collection of Python and MATLAB tools for raster-based environmental data processing and spatiotemporal trend analysis in remote sensing applications.
+A collection of Python, MATLAB, and R tools for environmental data processing and spatiotemporal trend analysis.
 
 ## Applications
 - Ecosystem dynamics detection  
