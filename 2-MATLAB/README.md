@@ -1,18 +1,26 @@
-# MATLAB Scripts for Raster Analysis
+# MATLAB Scripts for Raster Data Analysis
 
-This folder contains MATLAB implementations of core time-series trend analysis workflows in environmental remote sensing, including the Mann–Kendall test, Sen’s slope estimation, and NetCDF-to-GeoTIFF conversion.
+This repository includes lightweight MATLAB scripts for **trend detection** and **NetCDF raster export**, frequently used in ecological and climate remote-sensing analysis. All scripts are self-contained and easy to adapt to any similar dataset.
 
 ## Script Overview
 
 | File | Purpose |
 |------|---------|
 | **1-mk_sen_trend.m** | Perform Mann–Kendall statistical test and Sen’s slope calculation to detect trend direction and significance for raster time series |
-| **2-NC_TIF_12m.m** | Convert monthly/annual NetCDF data to geographically referenced GeoTIFFs |
+| **2-NC_TIF_12m.m** | Convert multi-year NetCDF data into monthly GeoTIFF images |
 
-## Application Scenarios
+## Usage
+1. **Prepare Input Data** 
+   - Organize rasters into folders 
+   - Confirm the data has correct: spatial reference (projection), resolution, extent alignment
+2. **Run Thematic Scripts**
+3. **Export Outputs**
+   - Ready for mapping / further GIS processing in ArcGIS/QGIS
 
-- Long-term climate trend detection  
-- Ecosystem monitoring  
+## Applications
+
+- Long-term change trend detection and significance test
+- NetCDF batch export for further GIS analysis
 
 ## Author
 Xiaoyu Li, 2025
